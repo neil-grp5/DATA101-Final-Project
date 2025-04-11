@@ -7,7 +7,7 @@ Project team: Group 5
 Luo, 
 Ong, 
 Peñaflor, 
-Sta. Cruz,
+Sta. Cruz
 
 Instructions:
 1. Load all files from 'final files.zip' into the Final_Projec_Group_5 notebook.
