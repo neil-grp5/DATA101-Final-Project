@@ -1,7 +1,7 @@
 Final Project 
 
 The purpose of this app is to help Movie Analysts, Film Enthusiasts, and related Industry Professionals gain insight on movie trends happening globally. 
-There are three apps pertaining to graphs for Genres, Release Types, and Grouped Themes.
+There are three apps pertaining to graphs for Genres, Release Types, and Grouped Themes. The project makes use of datasets coming from https://www.kaggle.com/datasets/gsimonx37/letterboxd?select=releases.csv.
 
 Project team: Group 5
 Luo, Monaliza
